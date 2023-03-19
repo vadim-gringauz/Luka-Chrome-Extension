@@ -1,0 +1,21 @@
+.Luka {
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+
+.btn {
+    width: 200px;
+    height: 70px;
+    font-size: 2rem;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    text-transform: uppercase;
+    border: 0;
+    outline: 0;
+}
+
+.btn:hover {
+    background-color: lightblue;
+}
